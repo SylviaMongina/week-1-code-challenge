@@ -35,7 +35,7 @@ Links to an external site.
 
 
 # Screenshot.
-  /home/sylvia/Pictures/ok speed.png
+ (Check on the images folder.)
 
 
 # SetUp Instruction.
